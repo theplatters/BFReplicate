@@ -1,1 +1,7 @@
 data/
+.vscode/
+
+Manifest.toml
+
+#synology
+.DS_Store
